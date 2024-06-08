@@ -1,0 +1,3 @@
+GET http://localhost:3000/posts 
+Authorization: Bearer 
+0275fda223ae9c8387046d54f6c77d97ee297b6ac888ff165d795cbdb56b350dd9515e39915af28c9a0589729c031401a6a9b41050878798b4ba5b6f858fbbeb
